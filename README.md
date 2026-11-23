@@ -1,6 +1,10 @@
 # The World in One Image — Monday 23 November 2026
 
-Entry for the make.fun bounty **"Sum up 23 November's world news in one image"** (news-image-20261123).
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Clintobi/world-news-2026-11-23/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Clintobi/world-news-2026-11-23/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Entry for the make.fun bounty **"Sum up 23 November's world news in one image"** (news-image-20261123): https://make.fun/bounty/news-image-20261123
 
 ## What it is
 A single 1024×1024 image (JPEG-encoded, written to entry.png as the brief allows) summing up the world's news of Monday 23 November 2026, designed as a magazine cover: a full-bleed hero of the Hormuz tanker attacks, an editorial band with three pictured stories, and a breadth line:
